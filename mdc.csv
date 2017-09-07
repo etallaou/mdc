@@ -1,0 +1,10 @@
+If. Nr.;IDENTIFIER GEE;MAC-Address;Primary Current [A];Secondary Current [A];Time Interval [Sec];Network Type;IP-Address;Gateway;Subnet-Mask
+1;SAMD002;00-0e-6b-07-1a-00;1000000;2;900;dynamic;None;None;None
+2;SAMD003;00-0e-6b-07-1a-02;5;5;900;static;192.169.2.105;192.169.2.1;255.255.254.0
+3;SAMD004;00-0e-6b-07-19-ff;400;5;480;static;10.127.2.46;10.127.2.46;255.255.254.0
+4;SAMD005;tbd;400;5;30;dynamic;None;None;None
+5;SAMD006;tbd;400;1;480;dynamic;None;None;None
+6;SAMD007;tbd;400;1;30;static;192.169.2.104;192.169.2.1;255.255.254.0
+7;SAMD008;tbd;400;5;900;static;10.127.2.48;10.127.2.46;255.255.254.0
+8;SAMD009;tbd;100;5;600;dynamic;None;None;None
+9;SAMD010;tbd;400;1;480;dynamic;None;None;None
